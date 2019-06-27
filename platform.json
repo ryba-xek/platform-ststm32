@@ -71,7 +71,7 @@
     "framework-arduinoststm32": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/ryba-xek/Arduino_STM32.git"
+      "version": "~2.1.0"
     },
     "framework-arduinostm32mxchip": {
       "type": "framework",
